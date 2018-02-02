@@ -1,0 +1,11 @@
+Parts
+
+ID       MFR Part
+
+CR-2032  3.3v Lithium Battery  
+Holder   BAT-HLD-001 (Mouser stocks)
+IC1      ATTINY13A-SU          SMT  Atmel Attiny 13
+LED1     HT-121UYG-4739        0603 20ma bright yellow LED
+R1       1M                    0603
+R2       1300                  1206
+SG1      PKMCS0909E4000-R1     9MM square 4KHz Piezo buzzer
