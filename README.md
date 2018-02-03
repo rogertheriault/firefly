@@ -24,7 +24,7 @@ IC1 | ATTINY13A-SU | SMT Atmel Attiny 13a | Mouser
 LED1 | HT-121UYG-4739 | 0603 20ma bright yellow SMT LED | Mouser
 SG1 | PKMCS0909E4000-R1 | 9MM square 4KHz piezo buzzer, SMT | Mouser
 R1 | 1M   | 0603 1 Meg ohm SMT resistor | Mouser, Newark, Digikey
-R2 | 1300 ! 1206 1.3K ohm SMT resistor | Mouser, Newark, Digikey
+R2 | 1300 | 1206 1.3K ohm SMT resistor | Mouser, Newark, Digikey
 CR-2032 | CR-2032 | 3.3v lithium battery | Mouser, Amazon
 Holder |  BAT-HLD-001 | SMT battery holder | Mouser
 
